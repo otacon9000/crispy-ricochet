@@ -2,7 +2,7 @@
 
 Top-down arcade shooter built in Unity 6. You fire projectiles that bounce off walls — every shot you fire can come back to kill you.
 
-Built as a portfolio project targeting WebGL (playable in browser, no download required).
+Built as a portfolio project targeting WebGL (playable in browser, no download required)
 
 ## Gameplay
 - Move with WASD / left stick
